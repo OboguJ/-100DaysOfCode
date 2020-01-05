@@ -1,6 +1,5 @@
 # -100DaysOfCode
 
-
 <html>
 <head>
 <title>RoadInWatch</title>
